@@ -7,7 +7,7 @@
 import unittest
 
 from collections import OrderedDict
-from compute_share_price import ComputeSharePrice
+from main import ComputeSharePrice
 
 class TestComputeSharePrice(unittest.TestCase):
     def setUp(self):
